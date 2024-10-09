@@ -16,3 +16,10 @@ Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor 
 > Object Instances
 > ![gambar](POO/POO2.png)    ![gambar](POO/POO3.png)
  
+Buatlah gambar diagram objek AkunBank dengan instance method simpan Uang, ambilUang dan cekSaldo!
+
+> Class Diagram
+![gambar](POO/POO4.png)
+
+> Object Instances
+![gambar](POO/POO5.png)
