@@ -2,6 +2,7 @@
 Nama:Wishnu Aqbil Ramadani Kelas: TI.23.A6
 
 Jawaban!
+
 Latihan1
 Apa yang harus didefinisikan sebelum membuat objek?
 
@@ -10,4 +11,5 @@ Apa yang harus didefinisikan sebelum membuat objek?
 Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko!
 
 > Class Diagram                   > Object Instances
->
+![gambar](gambar/POO1.png)        ![gambar](gambar/POO2.png)
+ 
