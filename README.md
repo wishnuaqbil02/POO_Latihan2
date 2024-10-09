@@ -10,8 +10,8 @@ Apa yang harus didefinisikan sebelum membuat objek?
 
 Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko!
 
-> Class Diagram                   > Object Instances
-![gambar](POO/POO1.png)        ![gambar](POO/POO2.png)  ![gambar](POO/POO3.png)
+> Class Diagram                    > Object Instances
+![gambar](POO/POO1.png)          ![gambar](POO/POO2.png)    ![gambar](POO/POO3.png)
 
 
  
