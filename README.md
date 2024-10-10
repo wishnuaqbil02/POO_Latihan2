@@ -159,6 +159,4 @@ public class AkunBank {
 
 OUTPUT
 
-![gambar](Ourput/POO8.png)
-
-
+![gambar](Output/POO8.png)
