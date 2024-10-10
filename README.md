@@ -3,6 +3,7 @@ Nama: Wishnu Aqbil Ramadani Kelas: TI.23.A6
 
 Jawaban!
 
+
 Latihan 1
 
 Apa yang harus didefinisikan sebelum membuat objek?
@@ -28,6 +29,7 @@ Buatlah gambar diagram objek AkunBank dengan instance method simpan Uang, ambilU
 > Object Instances
 
 ![gambar](POO/POO5.png)
+
 
 Latihan 2
 
@@ -95,6 +97,11 @@ public class Person {
     }
 }
 
+OUTPUT
+
+![gambar](Output/POO7.png)
+
+
 Latihan 3
 
 Buatlah kode java untuk:
@@ -150,3 +157,6 @@ public class AkunBank {
 }
 
 
+OUTPUT
+
+![gambar](Ourput/POO8.png)
